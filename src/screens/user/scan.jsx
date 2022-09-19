@@ -79,7 +79,7 @@ export default function UserScan(props) {
     <div className="container">
     <Logo />
     <div className="row">
-      <Text lable="Aminities management" color="blue" fontWeight={"bold"} />
+      <Text lable="Amenities management" color="blue" fontWeight={"bold"} />
       <Text lable="13/09/2022"/>
       <Text lable="14:25"/>
     </div>

@@ -66,7 +66,7 @@ export default function MakerOk( props ) {
     <div className="container">
       <Logo />
       <div className="row" style={{ marginBottom:"20px" }}>
-        <Text lable="Aminities management" color="blue" fontWeight={"bold"}/>
+        <Text lable="Amenities management" color="blue" fontWeight={"bold"}/>
         <Text lable="13/09/2022" mx="10px" />
         <Text lable="14:25" />
       </div>
