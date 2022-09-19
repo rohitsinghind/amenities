@@ -1,0 +1,23 @@
+.btn {
+  background-color: #486aae;
+  padding: 0.3rem 1rem;
+  border-radius: 5px;
+  color: aliceblue;
+  border: solid #1d3566 0.6px;
+  cursor: pointer;
+  text-align: center;
+}
+.inpt-container {
+  display: flex;
+  align-items: center;
+}
+.lable {
+  width: 100px;
+}
+.input {
+  border-color: rgb(23, 173, 23);
+  height: 2rem;
+}
+.image {
+  align-self: center;
+}
